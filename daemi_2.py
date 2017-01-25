@@ -7,4 +7,4 @@ print("Sláðu inn eftirnafn")
 eftirnafn = input("=")
 
 #Forritið heilsar uppá notanda
-print("Góðan daginn", fornafn, " ", eftirnafn)
+print("Góðan daginn", fornafn, eftirnafn)
